@@ -43,4 +43,4 @@ console.table(colors);
 var light = colors[1][1];
 var dark = colors[1][0];
 var darker = colors[1][2];
-console.log(light + " is lighter than " + dark + " and " + darker + ".");
+console.log(light + " is lighter than " + dark + " and " + darker + ".");   
